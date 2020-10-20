@@ -1,0 +1,13 @@
+C:\temp\ws-vs2019\conversor_dollar\conversor_dollar\obj\Debug\netcoreapp3.1\conversor_dollar.csprojAssemblyReference.cache
+C:\temp\ws-vs2019\conversor_dollar\conversor_dollar\obj\Debug\netcoreapp3.1\conversor_dollar.AssemblyInfoInputs.cache
+C:\temp\ws-vs2019\conversor_dollar\conversor_dollar\obj\Debug\netcoreapp3.1\conversor_dollar.AssemblyInfo.cs
+C:\temp\ws-vs2019\conversor_dollar\conversor_dollar\obj\Debug\netcoreapp3.1\conversor_dollar.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\conversor_dollar\conversor_dollar\bin\Debug\netcoreapp3.1\conversor_dollar.exe
+C:\temp\ws-vs2019\conversor_dollar\conversor_dollar\bin\Debug\netcoreapp3.1\conversor_dollar.deps.json
+C:\temp\ws-vs2019\conversor_dollar\conversor_dollar\bin\Debug\netcoreapp3.1\conversor_dollar.runtimeconfig.json
+C:\temp\ws-vs2019\conversor_dollar\conversor_dollar\bin\Debug\netcoreapp3.1\conversor_dollar.runtimeconfig.dev.json
+C:\temp\ws-vs2019\conversor_dollar\conversor_dollar\bin\Debug\netcoreapp3.1\conversor_dollar.dll
+C:\temp\ws-vs2019\conversor_dollar\conversor_dollar\bin\Debug\netcoreapp3.1\conversor_dollar.pdb
+C:\temp\ws-vs2019\conversor_dollar\conversor_dollar\obj\Debug\netcoreapp3.1\conversor_dollar.dll
+C:\temp\ws-vs2019\conversor_dollar\conversor_dollar\obj\Debug\netcoreapp3.1\conversor_dollar.pdb
+C:\temp\ws-vs2019\conversor_dollar\conversor_dollar\obj\Debug\netcoreapp3.1\conversor_dollar.genruntimeconfig.cache

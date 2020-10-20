@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "conversor_dollar/1.0.0": {
+        "runtime": {
+          "conversor_dollar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "conversor_dollar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
